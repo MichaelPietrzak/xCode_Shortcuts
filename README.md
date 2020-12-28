@@ -4,7 +4,7 @@ Xcode and Swift shortcuts I gathered and constantly update to speed up iOS Devel
 
 ## Index:
 
-- ### Keyboard keys Cheatsheet
+- ### [Keyboard keys Cheatsheet](#keyboard-keys-cheatsheet)
 - ### [Navigation & Workspace](#Navigation-&-Workspace)
 - ### [Code Formatting](#Code-Formatting)
 - ### [Debugging](#Debugging)
@@ -13,7 +13,7 @@ Xcode and Swift shortcuts I gathered and constantly update to speed up iOS Devel
 - ### [Adding markers to the jump bar](#Adding-markers-to-the-jump-bar)
 
 
-## [Keyboard keys Cheatsheet:](#Keyboard-keys-Cheatsheet)
+## Keyboard keys Cheatsheet
 
 Command: ⌘ 
 Shift: ⇧ 
