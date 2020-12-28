@@ -1,32 +1,39 @@
 # xCode/Swift - Shortcuts
 Xcode and Swift shortcuts I gathered and constantly update to speed up iOS Development .
 
+<br />
 
 ## Index:
 
-- ### [Keyboard keys Cheatsheet](#keyboard-keys-cheatsheet)
-- ### [Navigation & Workspace](#Navigation-&-Workspace)
-- ### [Code Formatting](#Code-Formatting)
-- ### [Debugging](#Debugging)
-- ### [Building](#Building)
-- ### [Simulator](#Simulator)
-- ### [Adding markers to the jump bar](#Adding-markers-to-the-jump-bar)
+- [Keyboard keys Cheatsheet](#keyboard-keys-cheatsheet)
+- [Navigation & Workspace](#navigation-&-workspace)
+- [Code Formatting](#code-formatting)
+- [Debugging](#debugging)
+- [Building](#building)
+- [Simulator](#simulator)
+- [Adding markers to the jump bar](#adding-markers-to-the-jump-bar)
 
+<br />
 
-## Keyboard keys Cheatsheet
+## Keyboard keys Cheatsheet:
 
-Command: ⌘ 
-Shift: ⇧ 
-Option/Alt: ⌥
-Control: ⌃ 
-Left/Right Arrow Keys: ⇠⇢     
-Up/Down Arrow Keys: ⇡⇣     
-Escape: ⎋ 
-Tab: ⇥
+<br />
+
+Command: ⌘\
+Shift: ⇧\
+Option/Alt: ⌥\
+Control: ⌃\
+Left/Right Arrow Keys: ⇠⇢\
+Up/Down Arrow Keys: ⇡⇣    
+Escape: ⎋\
+Tab: ⇥\
 Return : ⏎
 
+<br />
 
 ## Navigation & Workspace
+
+<br />
 
 Xcode’s jump bar: ⌃  + 6
 
@@ -72,8 +79,12 @@ Show / Hide Assistant: ⌃ + ⌥ + ⌘ + ⏎
 
 Show / Hide Code Review: ⌥ + ⇧ + ⌘ + ⏎
 
+<br />
+<br />
 
 ## Code Formatting
+
+<br />
 
 Jump to Definition: ⌃ + ⌘ + J
 
@@ -103,15 +114,24 @@ Auto documentation: ⌘ +⌥ + /
 
 Jump to a line: ⌘ + L
 
+<br />
+<br />
 
 ## Debugging
+
+<br />
 
 Add and Remove breakpoints: ⌘ + \
 
 Disable / Enable all breakpoints: ⌘ + Y
 
+<br />
+<br />
+
 
 ##  Building
+
+<br />
 
 Build Project: ⌘ + B
 
@@ -133,8 +153,12 @@ Choose Destination: ⌃ + ⇧ + 0
 
 Re-run the last run tests: ⇧ + ⌘ + ⌥ + G
 
+<br />
+<br />
 
 ## Simulator
+
+<br />
 
 Copy current screen: ⌃ + ⌘ + C
 
@@ -146,8 +170,12 @@ Shake Gesture: ⌃ + ⌘ +  Z
 
 Toggle software keyboard: ⌘ + K
 
+<br />
+<br />
 
 ## Adding markers to the jump bar
+
+<br />
 
 ```
 //  TODO: This isn’t finished yet
