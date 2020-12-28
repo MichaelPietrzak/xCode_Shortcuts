@@ -4,7 +4,7 @@ Xcode and Swift shortcuts I gathered and constantly update to speed up iOS Devel
 
 ## Index:
 
-- ### [Keyboard keys Cheatsheet](#Keyboard-keys-Cheatsheet:)
+- ### [Keyboard keys Cheatsheet](#Keyboard-keys-Cheatsheet)
 - ### [Navigation & Workspace](#Navigation-&-Workspace)
 - ### [Code Formatting](#Code-Formatting)
 - ### [Debugging](#Debugging)
