@@ -5,12 +5,12 @@ Xcode and Swift shortcuts I gathered and constantly update to speed up iOS Devel
 ## Index:
 
 - ### [Keyboard keys Cheatsheet](#Keyboard-keys-Cheatsheet:)
-- ### Navigation & Workspace
-- ### Code Formatting
-- ### Debugging
-- ### Building
-- ### Simulator
-- ### Adding markers to the jump bar
+- ### [Navigation & Workspace](#Navigation-&-Workspace)
+- ### [Code Formatting](#Code-Formatting)
+- ### [Debugging](#Debugging)
+- ### [Building](#Building)
+- ### [Simulator](#Simulator)
+- ### [Adding markers to the jump bar](#Adding-markers-to-the-jump-bar)
 
 
 ## Keyboard keys Cheatsheet:
