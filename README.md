@@ -1,5 +1,6 @@
 # xCode/Swift - Shortcuts
-Xcode and Swift shortcuts I gathered and constantly update to speed up iOS Development .
+Xcode and Swift shortcuts I gathered and constantly update to speed up iOS Development.
+
 
 <br />
 
@@ -67,7 +68,9 @@ Quick Open: ⇧ + ⌘ + 0
 
 Highlight File in Project Navigator: ⇧ + ⌘ + J
 
-Left panel tabs switch: ⌘ + (1–7)
+Left panel tabs switch: ⌘ + (1–9)
+
+Open the Issue Navigator: ⌘ + 5
 
 Right panel tabs switch: ⌘ +⌥ + 1-6
 
